@@ -1,4 +1,7 @@
+<h1 align="left" id="macropower-title"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Fancy seeing you here!</h1>
 
+
+<h3 align="left"> I'm Ronny Muthomi , I do  / Data Analysis / Data Science / Machine Learning / Web Development </h3>
 
 
 
@@ -41,3 +44,14 @@
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)
+
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AllanOtieno254&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanOtieno254&layout=compact&count_private=true&theme=gruvbox" />
+
+</details>
+
