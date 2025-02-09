@@ -61,7 +61,7 @@ I'm always open to collaborating on interesting projects, discussing data scienc
 - 📧 **Email**: ronnymuthomi254@gmail.com  
 - 💼 **LinkedIn**: www.linkedin.com/in/ronny-muthomi-014805262  
 - 🐙 **GitHub**: https://github.com/RonnyMuthomi 
-- 🐦 **Mattermost**: ....
+- 🐦 **Phone**: 0793508479
 
 ## Fun Fact  
 When I'm not crunching numbers or building models, I enjoy gaming, playing chess & biking. ☕ 
